@@ -4,3 +4,5 @@
 ![issues badge](https://img.shields.io/github/issues/shahleon/cs510-homework-1)
 
 # CS510 Homework 1 Group 34
+
+Our simple calculator performs all the necessary basic functions of a calculator such as adding, subtracting, dividing, and multiplying.

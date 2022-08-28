@@ -3,9 +3,9 @@
 ![license badge](https://img.shields.io/github/license/shahleon/cs510-homework-1)
 ![issues badge](https://img.shields.io/github/issues/shahleon/cs510-homework-1)
 
-# Group 34 Calculator
+# Group 34 com.Calculator
 
-Are you think kind of person who hates doing math in your head and always wants to double check your answer? If so, the Group 34 Calculator is perfect for you! Our simple calculator performs all the necessary basic functions of a calculator such as adding, subtracting, dividing, and multiplying. The Group 34 Calculator is written entirely in Java. In the future we hope to add more functions to it and expand it past a basic calulator.
+Are you think kind of person who hates doing math in your head and always wants to double check your answer? If so, the Group 34 com.Calculator is perfect for you! Our simple calculator performs all the necessary basic functions of a calculator such as adding, subtracting, dividing, and multiplying. The Group 34 com.Calculator is written entirely in Java. In the future we hope to add more functions to it and expand it past a basic calulator.
 
 ## Installation
 

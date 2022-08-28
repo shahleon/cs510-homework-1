@@ -15,7 +15,7 @@ To install you project simple [add summary of installation process].
 
 To use our project simple run it and perform whatever calculations you want. [include images of use and longer use description if necesaary]
 
-## Contributiong
+## Contributing
 
 [summary of contributions page]
 

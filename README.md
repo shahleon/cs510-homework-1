@@ -5,7 +5,7 @@
 
 # Group 34 Calculator
 
-Are you think kind of person who hates doing math in your head and always wants to double check your answer? Well then the Group 34 Calculator is perfect for you! Our simple calculator performs all the necessary basic functions of a calculator such as adding, subtracting, dividing, and multiplying. The Group 34 Calculator is written entirely in Java. In the future we hope to add more functions to it and expand it past a basic calulator.
+Are you think kind of person who hates doing math in your head and always wants to double check your answer? If so, the Group 34 Calculator is perfect for you! Our simple calculator performs all the necessary basic functions of a calculator such as adding, subtracting, dividing, and multiplying. The Group 34 Calculator is written entirely in Java. In the future we hope to add more functions to it and expand it past a basic calulator.
 
 ## Installation
 
@@ -21,7 +21,7 @@ To use our project simple run it and perform whatever calculations you want. [in
 
 ## License
 
-Distributed under the MIT License. See 'LICENSE' for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Developers
 

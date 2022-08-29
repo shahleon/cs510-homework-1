@@ -1,8 +1,9 @@
 ![image](https://user-images.githubusercontent.com/32468777/187042883-c0b331ed-08ef-4cd2-9e19-0d7c0a3d38ba.png)
 
+[![Build Status](https://app.travis-ci.com/shahleon/cs510-homework-1.svg?branch=develop)](https://app.travis-ci.com/shahleon/cs510-homework-1)
 ![license badge](https://img.shields.io/github/license/shahleon/cs510-homework-1)
 ![issues badge](https://img.shields.io/github/issues/shahleon/cs510-homework-1)
-[![Build Status](https://app.travis-ci.com/shahleon/cs510-homework-1.svg?branch=develop)](https://app.travis-ci.com/shahleon/cs510-homework-1)
+![language badge](https://img.shields.io/badge/<java>-<100.0%>-<blue>)
 
 # Group 34 Calculator
 

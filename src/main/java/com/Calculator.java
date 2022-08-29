@@ -1,7 +1,7 @@
 package com;
 
 public class Calculator {
-    public double calculate(double number1, double number2, char operator) throws Exception {
+    public static Double calculate(double number1, double number2, char operator) {
         switch (operator) {
             case '+':
                 return add(number1, number2);
@@ -15,7 +15,8 @@ public class Calculator {
                 System.out.println(operator + " is an invalid operator" + System.lineSeparator());
                 break;
         }
-        throw new Exception("Invalid operator provided");
+
+        return null;
     }
 
     private static double add(double number1, double number2) {

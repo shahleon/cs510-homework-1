@@ -30,7 +30,7 @@ Result is: 50.0
 Continue? Y/N
 ```
 
-After each calculation you can enter 'y' to run another calulation or 'x' to quit.
+After each calculation you can enter 'Y' to run another calulation or 'N' to quit.
 
 ## Contributing
 

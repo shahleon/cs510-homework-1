@@ -7,8 +7,8 @@ import java.io.InputStreamReader;
 public class Main {
     public static void main(String[] args) {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+        String supportedOperations = "+-/*";
         String input;
-        Calculator calculator = new Calculator();
 
         try {
             do {
@@ -18,11 +18,18 @@ public class Main {
 
                 System.out.println("Enter operator: +, -, * or /");
                 char operator = reader.readLine().charAt(0);
+                if (supportedOperations.indexOf(operator) == -1) {
+                    throw new Exception("Invalid operator provided");
+                }
 
                 System.out.println("The second number is:");
                 secondNumber = getNumber(2);
 
-                calculator.calculate(firstNumber, secondNumber, operator);
+                Double result = Calculator.calculate(firstNumber, secondNumber, operator);
+                if (result == null) {
+                    System.out.println("Could not calculate result");
+                }
+                System.out.println("Result is: "+ result);
 
                 System.out.println("Continue? Y/N");
                 input = reader.readLine();

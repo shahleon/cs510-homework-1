@@ -32,6 +32,10 @@ Continue? Y/N
 
 After each calculation you can enter `Y` to run another calulation or `N` to quit.
 
+## Roadmap
+
+In the future we would like to expand the Group 34 Calculator by adding more functions such as raising to a power, square roots, and factorials.
+
 ## Contributing
 
 Before contributing to the Group 34 Calculator please check out `CONTRIBUTING.md` for instructions. Also refer to [CODE_OF_CONDUCT.md](https://github.com/shahleon/cs510-homework-1/blob/develop/CODE_OF_CONDUCT.md) for our guidelines.

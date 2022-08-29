@@ -34,11 +34,11 @@ After each calculation you can enter `Y` to run another calulation or `N` to qui
 
 ## Contributing
 
-[summary of contributions page]
+Before contributing to the Group 34 Calculator please check out 'CONTRIBUTING.md' for instructions. Also refer to [CODE_OF_CONDUCT.md](https://github.com/shahleon/cs510-homework-1/blob/develop/CODE_OF_CONDUCT.md) for our guidelines.
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/shahleon/cs510-homework-1/blob/develop/LICENSE) for more information.
 
 ## Developers
 

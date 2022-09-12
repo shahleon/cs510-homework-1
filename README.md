@@ -2,8 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7033361.svg)](https://doi.org/10.5281/zenodo.7033361)
 [![Build Status](https://app.travis-ci.com/shahleon/cs510-homework-1.svg?branch=develop)](https://app.travis-ci.com/shahleon/cs510-homework-1)
-![license badge](https://img.shields.io/github/license/shahleon/cs510-homework-1)
-![issues badge](https://img.shields.io/github/issues/shahleon/cs510-homework-1)
+[![license badge](https://img.shields.io/github/license/shahleon/cs510-homework-1)](https://github.com/shahleon/cs510-homework-1/blob/develop/LICENSE)
+[![issues badge](https://img.shields.io/github/issues/shahleon/cs510-homework-1)](https://github.com/shahleon/cs510-homework-1/issues)
 
 # Group 34 Calculator
 
